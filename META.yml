@@ -1,0 +1,27 @@
+---
+abstract: unknown
+author:
+  - 'Alexei Pastuchov E<lt>palik at cpan.orgE<gt>.'
+build_requires:
+  Test::More: 0
+configure_requires:
+  ExtUtils::MakeMaker: 0
+dynamic_config: 1
+generated_by: 'ExtUtils::MakeMaker version 6.82, CPAN::Meta::Converter version 2.120351'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: Poe-Wheel-Spawner
+no_index:
+  directory:
+    - t
+    - inc
+requires:
+  POE::Filter::Reference: 0
+  POE::Kernel: 0
+  POE::Session: 0
+  POE::Wheel::Run: 0
+  fields: 0
+  perl: 5.006
+version: 0.01
