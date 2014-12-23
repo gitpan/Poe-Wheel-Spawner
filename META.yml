@@ -24,4 +24,4 @@ requires:
   POE::Wheel::Run: 0
   fields: 0
   perl: 5.006
-version: 0.01
+version: 0.02
